@@ -5,7 +5,7 @@ Welcome to my Drum Kit web application project!
 ## Project Showcase
 
 
-Check out the live demo: [Drum Kit Web App Demo](https://n4nikhilofficial.github.io/Drumkit-webapp/)
+Check out the live demo: [Drum Kit Web App Demo](https://nikhilconnectnow.github.io/Drumkit/))
 ![image](https://github.com/Nikhilconnectnow/Drumkit-Game/assets/171763911/bcf166f4-496f-4260-afec-77a515d80643)
 
 
